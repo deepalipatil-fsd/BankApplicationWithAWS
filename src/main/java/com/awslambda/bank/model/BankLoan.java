@@ -28,4 +28,7 @@ public class BankLoan {
     private double duration;
     @DynamoDBAttribute
     private Date applicationDate;
+    public static final String ACCESS_KEY = "";
+    public static final String SECRET_KEY = "";
+
 }

@@ -23,6 +23,11 @@ public class BankUserRequest {
     }
 
 //    {
+//        "httpMethod":"$.detail.httpMethod",
+//            "loanId":"$.detail.loanId",
+//            "bankLoan":"$.detail.bankLoan"
+//    }
+//    {
 //        "httpMethod": "$context.httpMethod",
 //        "bankUser": $input.json('$')
 //    }
